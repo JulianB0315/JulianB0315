@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Julian 🤖
+##  Hi, I'm Julian🤖🤓
 
 ### 👨‍💻 About Me
-.
+I am a software engineering student with AI and a self-taught fanatic with a passion for programming and continuous learning. Currently, I am focused on improving my Python skills and have a great interest in learning Java and JavaScript. Excited about exploring new technologies and applying them in personal projects 🤖.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=JulianB0315&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
