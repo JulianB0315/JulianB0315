@@ -4,24 +4,8 @@
 I am a software engineering student with AI and a self-taught fanatic with a passion for programming and continuous learning. Currently, I am focused on improving my Python skills and have a great interest in learning Java and JavaScript. Excited about exploring new technologies and applying them in personal projects 🤖.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=JulianB0315&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-
-<!--
-**Alejosor/alejosor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-light-mode-only)
 <!--
 **JulianB0315/JulianB0315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
