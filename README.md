@@ -1,4 +1,4 @@
-##  Hi, I'm Julian🤖🤓
+#  Hi, I'm Julian🤖🤓
 
 ### 👨‍💻 About Me
 I am a software engineering student with AI and a self-taught fanatic with a passion for programming and continuous learning. Currently, I am focused on improving my Python skills and have a great interest in learning Java and JavaScript. Excited about exploring new technologies and applying them in personal projects 🤖.
