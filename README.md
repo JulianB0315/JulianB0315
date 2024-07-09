@@ -7,6 +7,15 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-light-mode-only)
 
+### 📚Languages
+<p>
+<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+</p>
+<br>
+
 ### 🌟 Featured Projects
 Looking to create one in Python.
 
