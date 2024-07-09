@@ -28,7 +28,7 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 ### 🌟 Featured Projects
 Looking to create one in Python.
 
-### Made with :
+### 📱Made with :
 <p>
 <a href="https://x.com/Julian98386813">
   <img align="left" alt="Julian | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
