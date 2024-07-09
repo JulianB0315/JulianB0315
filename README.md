@@ -3,9 +3,18 @@
 ### 👨‍💻 About Me
 I am a software engineering student with AI and a self-taught fanatic with a passion for programming and continuous learning. Currently, I am focused on improving my Python skills and have a great interest in learning Java and JavaScript. Excited about exploring new technologies and applying them in personal projects 🤖.
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/julianb0315/github-readme-stats#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=julianb0315&show_icons=true" />
+</picture>
+
 
 ### 📚Languages
 <p>
