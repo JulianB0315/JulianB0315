@@ -26,7 +26,7 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,python,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
-**[Puthon_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Phytho from scratch with the study motology of MoureDev.😎
+**[Python_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Phytho from scratch with the study motology of MoureDev.😎
 
 ### 📱Made with :
 <p>
