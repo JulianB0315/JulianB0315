@@ -29,22 +29,7 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 ### 🌟 Featured Projects
 **[Python_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Python from scratch with the study motology of MoureDev.😎
 
-### 📱Made with :
-<p>
-<a href="https://x.com/Julian98386813">
-  <img align="left" alt="Julian | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/julianburgabracamonte/">
-  <img align="left" alt="Julian LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="">
-  <img align="left" alt="Xavi's LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-</a>
-  </a>
-  <a href="https://www.instagram.com/julianbb0315/">
-  <img align="left" alt="Xavi's LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-</a>
-</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianb0315/julianb0315/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianb0315/julianb0315/output/github-contribution-grid-snake.svg" />
