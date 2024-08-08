@@ -30,8 +30,54 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 </picture>
 </div>
 <br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,sqlite&theme=dark">
+    <!--table Learn-->
+  <table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+        <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+        <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>SQLite
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+      <br>Java
+  </tr>
+</table>
 </div>
 
 <div >
