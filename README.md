@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=468b56&&height=300&section=header&text=Julian%20Burga&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programmer!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=468b56&&height=300&section=header&text=Julian%20Burga&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programmer!&descAlignY=51&descAlign=62"/>
 </div>
 
 <div >
