@@ -22,11 +22,11 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 </picture>
   <!--Learn-->
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julianb0315&theme=dark"
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julianb0315&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julianb0315&show_icons=true"
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julianb0315&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/username=julianb0315&show_icons=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianb0315&show_icons=true&layout=compact" />
 </picture>
 </div>
 <br>
