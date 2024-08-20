@@ -84,8 +84,10 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
   <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=468b56&size=35&vCenter=true&width=1000&repeat=false&duration=3000&lines=🌟+Featured+Projects;" />
 </div>
 
-**[Python_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Python from scratch with the study motology of MoureDev.😎
+**[Python_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Python from scratch with the study motology of MoureDev.😎 </br>
+**[Proyect_bank](https://github.com/JulianB0315/Proyect_bank):**Institute project.🥸
 <div align="center">
+  
 <picture>
   <!--Estadisticas de contribuciones-->
   <img height="250px"src="https://github-readme-activity-graph.vercel.app/graph?username=julianb0315&bg_color=141415&color=ffffff&line=d8d9d8&point=468c56&hide_border=true"/>
