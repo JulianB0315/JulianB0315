@@ -85,7 +85,7 @@ I am a software engineering student with AI and a self-taught fanatic with a pas
 </div>
 
 **[Python_0_to_hero](https://github.com/JulianB0315/Python_0_to_hero):** Collaborative repository to learn Python from scratch with the study motology of MoureDev.😎 </br>
-**[Proyect_bank](https://github.com/JulianB0315/Proyect_bank):**Institute project.🥸
+**[Proyect_bank](https://github.com/JulianB0315/Proyect_bank):** Institute project.🥸
 <div align="center">
   
 <picture>
