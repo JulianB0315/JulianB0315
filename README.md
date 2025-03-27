@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=468b56&size=35&center=true&vCenter=true&width=1000&duration=4000&lines=Welcome!;I'm+Julian+Burga;" />
 </div>
 
-<div align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=468b56&&height=300&section=header&text=Julian%20Burga&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programmer!&descAlignY=51&descAlign=62"/>
-</div>
-
 <div >
   <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=468b56&size=35&vCenter=true&repeat=false&width=1000&duration=3000&lines=👨‍💻+About+Me;" />
 </div>
