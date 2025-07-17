@@ -45,20 +45,9 @@ I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and 
 
 ### 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" /><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" /><br>GitHub</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VSCode</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" /><br>SQLite</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java</td>
-  </tr>
-</table>
+
+<table align="center"> <tr> <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" /><br>Python</td> <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" /><br>JavaScript</td> <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40" /><br>Express</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" /><br>React</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="40" /><br>Laravel</td> <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /><br>PostgreSQL</td> </tr> <tr> <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" /><br>MySQL</td> <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" /><br>SQLite</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS</td> <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" /><br>GitHub</td> <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" /><br>Git</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VSCode</td> <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Figma-icon.svg/1200px-Figma-icon.svg.png" width="40" /><br>Figma</td> </tr> <tr> <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postman_logo_icon_169074.png" width="40" /><br>Postman</td> <td align="center" width="96"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/javafx-icon.png" width="40" /><br>JavaFX</td> <td align="center" width="96"><img src="https://knexjs.org/assets/images/knex.png" width="40" /><br>Knex.js</td> </tr> </table>
+
 
 ---
 
