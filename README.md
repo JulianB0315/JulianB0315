@@ -101,7 +101,7 @@ I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and 
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://knexjs.org/assets/images/knex.png" width="40" />
+      <img src="" width="40" />
       <br>Knex.js
     </td>
   </tr>
@@ -110,6 +110,10 @@ I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and 
 #### 🗄️ Databases
 <table align="center">
   <tr>
+  <td>
+  <img src="https://skillicons.dev/icons?i=" width="40" />
+      <br>SQLServer
+  </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
       <br>PostgreSQL
@@ -141,7 +145,7 @@ I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and 
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Figma-icon.svg/1200px-Figma-icon.svg.png" width="40" />
+      <img src="https://skillicons.dev/icons?i=figma" width="40" />
       <br>Figma
     </td>
     <td align="center" width="96">
