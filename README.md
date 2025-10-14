@@ -6,20 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=468b56&size=35&vCenter=true&repeat=false&width=1000&duration=3000&lines=👨‍💻+About+Me;" />
 </div>
 
-I'm a passionate software engineering student with a strong interest in Artificial Intelligence 🤖 and backend development. I'm a self-taught enthusiast, always looking to improve and expand my skillset through personal and collaborative projects.  
+I'm a software engineering student focused on Artificial Intelligence and backend development. I'm largely self-taught and learn by building projects that solve real problems.
 
-I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and JavaScript 🌐, and enjoying the challenge of building meaningful applications from scratch. I love exploring new technologies and using them to solve real-world problems.  
+Current focus:
+
+- Artificial Intelligence & Machine Learning (Python)
+- Backend development: Node.js, Express, Knex.js
+- Frontend: React and Vite
+- Databases: MySQL, PostgreSQL, SQLite
+- API security, JWT authentication, and REST best practices
 
 ---
-
-### 🚀 What I'm Learning
-
-- 🧠 Artificial Intelligence & Machine Learning with Python  
-- 🧪 Backend development with **Node.js** + **Express** + **Knex.js**  
-- 🌐 Frontend with **React** and Vite  
-- 🗃️ Databases: **MySQL**, **PostgreSQL**, **SQLite**  
-- 🔐 API security, JWT auth, and REST principles  
-
 ---
 
 <div align="center">
@@ -44,125 +41,51 @@ I'm currently sharpening my Python skills 🐍, diving deeper into Java ☕ and 
 ---
 
 ### 🧰 Tech Stack
-
 #### 💻 Languages
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" />
-      <br>CSS
-    </td>
-  </tr>
-</table>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/) 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### 🎨 Frontend
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/javafx-icon.png" width="40" />
-      <br>JavaFX
-    </td>
-  </tr>
-</table>
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+[![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
 
 #### ⚙️ Backend
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="40" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="" width="40" />
-      <br>Knex.js
-    </td>
-  </tr>
-</table>
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) 
+[![Knex.js](https://img.shields.io/badge/Knex.js-000000?style=for-the-badge&logo=knex&logoColor=white)](https://knexjs.org/)
 
 #### 🗄️ Databases
-<table align="center">
-  <tr>
-  <td>
-  <img src="https://skillicons.dev/icons?i=" width="40" />
-      <br>SQLServer
-  </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-      <br>SQLite
-    </td>
-  </tr>
-</table>
+
+[![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 #### 🛠️ Tools & Others
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 ---
 
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=468b56&size=35&vCenter=true&width=1000&repeat=false&duration=3000&lines=🌟+Featured+Projects;" />
-</div>
+## 🌟 Featured projects
 
-- 🎯 [**Python_0_to_hero**](https://github.com/JulianB0315/Python_0_to_hero) – Collaborative repository to master Python from scratch, following MoureDev's methodology.  
-- 🏦 [**Proyect_bank**](https://github.com/JulianB0315/Proyect_bank) – Educational project simulating banking functionalities with Java and databases.  
+Selected projects — click the links to view the repositories and short descriptions.
+
+- 🎯 [**Python_0_to_hero**](https://github.com/JulianB0315/Python_0_to_hero) – Collaborative repository to master Python from scratch, following MoureDev's methodology.
+- 🏦 [**Proyect_bank**](https://github.com/JulianB0315/Proyect_bank) – Educational project simulating banking functionalities with Java and databases.
+- 🧾 [**rendicion_cuentas**](https://github.com/JulianB0315/rendicion_cuentas) – Repository for financial reporting / accountability (see repo for details).
+- 👕 [**soccer-clothing.io**](https://github.com/JulianB0315/soccer-clothing.io) – E‑commerce / clothing store project focused on soccer apparel (see repo for details).
+- 🛒 [**super_market_py**](https://github.com/JulianB0315/super_market_py) – Python project simulating supermarket features (see repo for details).
 
 ---
 
